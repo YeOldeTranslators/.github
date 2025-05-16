@@ -1,3 +1,3 @@
 # We are Ye Olde Translators!
 This is blank for now while i am figuring out branding...
-[![Umm12many's GitHub stats](https://github-readme-stats.vercel.app/api?username=umm12many)](https://github.com/anuraghazra/github-readme-stats)
+[![YeOldeTranslators's GitHub stats](https://github-readme-stats.vercel.app/api?username=YeOldeTranslators)](https://github.com/anuraghazra/github-readme-stats)
